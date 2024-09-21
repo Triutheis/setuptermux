@@ -3,3 +3,4 @@ apt-get update && apt-get upgrade -y
 apt-get install wget -y
 apt-get install proot -y
 apt-get install git -y
+clear
